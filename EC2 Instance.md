@@ -48,3 +48,14 @@ Optimized for MACos workload
 macos application development.
 
 example : mac1.metal
+
+##EC2 pricing details##
+```
+a> ondemand
+2> spot
+3>Reserve
+4>dedicated
+5> compute savings plan
+```
+
+
