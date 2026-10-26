@@ -11,3 +11,7 @@ Go to IAM user groups > Create a group name > if you want attached a group polic
 ```
 Go to IAM Policies > choose a policy (ex -- ec2,IAM) > Now specify the policies under Actions allowed > then give a name of policy > next >create.
 ```
+**How to create Roles**
+```
+go to IAM > create Roles > Select trusted entity (aws service)> also choose use case (ec2 ) > next > choose permission policy  > next > give a role name > create Role.
+```
